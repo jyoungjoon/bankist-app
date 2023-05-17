@@ -1,6 +1,6 @@
 # Bankist App (Practice Project)
 
-This is a practice project from the Udemy course by Jonas Schmedtmann. The purpose of this project is to practice using JavaScript to manipulate the DOM and to practice using new Array methods from ES6 and up.
+This is a practice project from a Udemy course by Jonas Schmedtmann. The purpose of this project is to practice using JavaScript to manipulate the DOM and to practice using new Array methods from ES6 and up.
 
 ## Description
 

@@ -41,7 +41,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Acknowledgments
 
-Inspiration, code snippets, starter code provider, etc.
+Inspiration, code snippets, starter-code provider, etc.
 * Jonas Schmedtmann [Twitter](https://twitter.com/jonasschmedtman?lang=en)
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
 * [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)

@@ -150,7 +150,7 @@ const formatCur = function (value, locale, currency) {
     currency: currency,
   }).format(value);
 };
-const displayMovements = function (acc) {
+const displayMovements = function (acc, sorted = false) {
   containerMovements.innerHTML = "";
 
   const movs = sorted

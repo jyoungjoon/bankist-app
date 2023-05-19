@@ -11,7 +11,7 @@ This project is a simple banking app that allows users to log in, view their acc
 ## Getting Started
 
 Login information user can use to test the app are as follows:
-[user: js, pin: 1111], [user: jd, pin: 2222], [user: stw, pin: 3333], [user: ss, pin: 4444]
+[user: js, pin: 1111], [user: jd, pin: 2222], [user: yj, pin: 3333], [user: ss, pin: 4444]
 
 ### Dependencies
 

@@ -269,7 +269,9 @@ btnLoan.addEventListener("click", function (e) {
     timer = startLogOutTimer();
   } else {
     setTimeout(function () {
-      console.log("Young, your loan request has been denied due to bad credit; we're sorry!");
+      console.log(
+        "Young, your loan request has been denied due to bad credit; we're sorry!"
+      );
       clearInterval(timer);
       timer = startLogOutTimer();
     }, 5000);
@@ -292,6 +294,6 @@ btnClose.addEventListener("click", function (e) {
 });
 btnSort.addEventListener("click", function (e) {
   e.preventDefault();
-  displayMovements(currentAccount.movements, !sorted);
+  displayMovements(currentAccount, !sorted);
   sorted = !sorted;
 });
